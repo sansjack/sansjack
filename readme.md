@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">I Mostly Write Python, Rust And VueJS!</h3>
+<h3 align="center">I Mostly Write Python, Typescript And Rust!</h3>
 
 <p align="center">   </p>
 
