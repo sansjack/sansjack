@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jack Sansom/h1>
+<h1 align="center">Hi 👋, I'm Jack Sansom </h1>
 <h3 align="center">I Mostly Write Python, SvelteKit & Typescript!</h3>
 
 <p align="center">   </p>
