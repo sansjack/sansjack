@@ -9,4 +9,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40"/>
 </p>
-<img src="https://komarev.com/ghpvc/?username=sansjack02&label=Profile%20views&color=0e75b6&style=flat" alt="sansjack02" />
